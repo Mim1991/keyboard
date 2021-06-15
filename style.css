@@ -1,0 +1,143 @@
+.container {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: space-between;
+  height: 30vh;
+  width: 80vw;
+  border: 1px solid red;
+}
+
+.topkeyboard {
+  display: flex;
+  justify-content: space-between;
+  align-items: flex-start;
+  border: 1px solid green;
+  width: 98%;
+  height: 80%;
+}
+
+.bottomkeyboard {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  border: 1px solid blue;
+  width: 98%;
+  height: 20%;
+}
+
+.topkeycolumn1 {
+  width: 12.5%;
+  height: 100%;
+  border: 1px solid pink;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: space-between;
+}
+
+.topkeycolumn2 {
+  width: 62.5%;
+  height: 100%;
+  border: 1px solid purple;
+}
+
+.topkeycolumn3 {
+  width: 12.5%;
+  height: 100%;
+  border: 1px solid green;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: space-between;
+}
+
+.topkeycolumn4 {
+  width: 12.5%;
+  height: 100%;
+  border: 1px solid gold;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: space-between;
+}
+
+.langbtn {
+  height: 50%;
+  width: 100%;
+  border: 1px solid aqua;
+}
+
+.shiftbtn {
+  height: 50%;
+  width: 100%;
+  border: 1px solid chocolate;
+}
+
+.backbtn {
+  height: 25%;
+  width: 100%;
+  border: 1px solid chocolate;
+}
+
+.col3btn {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  width: 100%;
+  height: 25%;
+}
+
+.hat {
+  width: 50%;
+  height: 100%;
+  border: 1px solid darkblue;
+}
+
+.star {
+  width: 50%;
+  height: 100%;
+  border: 1px solid fuchsia;
+}
+
+.atsign {
+  width: 50%;
+  height: 100%;
+  border: 1px solid gold;
+}
+
+.excla {
+  width: 50%;
+  height: 100%;
+  border: 1px solid indianred;
+}
+
+.arrowup {
+  width: 50%;
+  height: 100%;
+  border: 1px solid khaki;
+}
+
+.arrowup {
+  width: 50%;
+  height: 100%;
+  border: 1px solid lightblue;
+}
+
+.deletebtn {
+  width: 100%;
+  height: 25%;
+  border: 1px solid lightblue;
+}
+
+.enterbtn {
+  width: 100%;
+  height: 25%;
+  border: 1px solid red;
+}
+
+.donebtn {
+  width: 100%;
+  height: 50%;
+  border: 1px solid purple;
+}
